@@ -1,0 +1,10 @@
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\obj\Debug\Polygraph.csprojAssemblyReference.cache
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\obj\Debug\Polygraph.Properties.Resources.resources
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\obj\Debug\Polygraph.csproj.GenerateResource.cache
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\obj\Debug\Polygraph.csproj.CoreCompileInputs.cache
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\bin\Debug\Polygraph.exe.config
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\bin\Debug\Polygraph.exe
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\bin\Debug\Polygraph.pdb
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\obj\Debug\Polygraph.Form1.resources
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\obj\Debug\Polygraph.exe
+C:\Users\igorm\Documents\Git\Polygraph\Polygraph\obj\Debug\Polygraph.pdb
