@@ -75,12 +75,12 @@ namespace Polygraph
         {
             foreach (Control c in Form1.ActiveForm.Controls)
             {
-                c.Top = c.Top * 2 + c.Height / 2;
-                c.Left = c.Left * 2 + c.Width / 2;
+                c.Top = c.Top * 2;// + c.Height / 2;
+                c.Left = c.Left * 2;// + c.Width / 2;
                 c.Width *= 2;
                 c.Height *= 2;
-                c.Top -= c.Height / 4;
-                c.Left -= c.Width / 4;
+                //c.Top -= c.Height / 4;
+                //c.Left -= c.Width / 4;
             }
         }
         public void Do(object sender, KeyPressEventArgs e)
@@ -158,7 +158,7 @@ namespace Polygraph
                 pictureBox1.Image = null;
                 pictureBox1.Visible = false;
                 Form1.ActiveForm.Refresh();
-                Thread.Sleep(100);
+                Thread.Sleep((new Random()).Next(100, 300));
                 label1.Text = File.ReadAllLines("variants\\" + variant.ToString() + "\\" + (now).ToString() + ".txt")[0].Split('\t')[0];
                 Form1.ActiveForm.Refresh();
                 start = DateTime.Now;
@@ -173,7 +173,7 @@ namespace Polygraph
                 pictureBox1.Image = null;
                 pictureBox1.Visible = false;
                 Form1.ActiveForm.Refresh();
-                Thread.Sleep(100);
+                Thread.Sleep((new Random()).Next(100, 300));
                 label1.Text = File.ReadAllLines("variants\\" + variant.ToString() + "\\" + (now % len).ToString() + ".txt")[0].Split('\t')[0];
                 Form1.ActiveForm.Refresh();
                 start = DateTime.Now;

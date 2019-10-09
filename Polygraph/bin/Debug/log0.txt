@@ -1,0 +1,13 @@
+Var: 1 Pic: 1
+Time: 390 Varnum: 1 Picnum: standart
+Time: 484 Varnum: 4 Picnum: 4
+Time: 641 Varnum: 2 Picnum: standart
+Time: 765 Varnum: 0 Picnum: standart
+Time: 499 Varnum: 3 Picnum: 3
+Time: 421 Varnum: 0 Picnum: 0
+Time: 437 Varnum: 5 Picnum: standart
+Time: 531 Varnum: 5 Picnum: 5
+Time: 452 Varnum: 1 Picnum: 1
+Time: 968 Varnum: 4 Picnum: standart
+Time: 671 Varnum: 2 Picnum: 2
+Time: 421 Varnum: 3 Picnum: standart

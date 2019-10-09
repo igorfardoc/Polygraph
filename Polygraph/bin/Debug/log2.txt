@@ -1,0 +1,13 @@
+Var: 1 Pic: 1
+Time: 4467 Varnum: 3 Picnum: 3
+Time: 562 Varnum: 2 Picnum: 2
+Time: 468 Varnum: 3 Picnum: standart
+Time: 718 Varnum: 5 Picnum: 5 WRONG ANSWER
+Time: 312 Varnum: 0 Picnum: 0 WRONG ANSWER
+Time: 0 Varnum: 2 Picnum: standart
+Time: 31 Varnum: 1 Picnum: standart
+Time: 0 Varnum: 1 Picnum: 1
+Time: 0 Varnum: 4 Picnum: standart WRONG ANSWER
+Time: 0 Varnum: 0 Picnum: standart WRONG ANSWER
+Time: 0 Varnum: 4 Picnum: 4 WRONG ANSWER
+Time: 0 Varnum: 5 Picnum: standart WRONG ANSWER
